@@ -1,0 +1,8 @@
+response_able_lending/flagged/
+
+# Ignore results folder
+response_able_lending/results/
+
+# Ignore trained_model folder
+response_able_lending/trained_model/
+
